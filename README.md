@@ -2,13 +2,4 @@
 
 # Matias Duro
 
-# Alumno: Matias
-
-# Alumno : Elvis Chatzky"
-
-# Prueba
-
-# Navbar www.ort.com / PNT2
-
-
-
+# Alumno : Lucas Basombrio
